@@ -1,0 +1,8 @@
+How to upload folder to Git Repository from Git Bush
+
+1. Go to the folder from Git Bush command Line (Using cd (*) see the Files using "dir" )
+2. Command "git init"
+3. Command [git remote add origin https://github.com/Anirban-Deb/test.git"(got this link from git repository "Code" section)]
+4. Command [git add .]
+5. Command [git commit -m "First commit"]
+6. Command [git push origin master"]
